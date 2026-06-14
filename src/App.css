@@ -1,0 +1,12 @@
+
+input {
+    width: 100%;
+}
+
+.item-row{
+    margin: 10px 5px;
+}
+
+.item-btn{
+    min-width: 70px;
+}
